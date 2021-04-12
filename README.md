@@ -2,11 +2,14 @@
 
 This repository contains an example exersice in which i had to fit, pickle and run tests on a model
 
-Requirements for pip
+Requirements for pip:
+
   -- jupiterlab
     -- conda install -c conda-forge jupyterlab
+    
   -- jupiter notebook
     -- conda install -c conda-forge notebook
+    
   -- voia
     -- conda install -c conda-forge voila
     
