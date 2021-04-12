@@ -13,5 +13,5 @@ Requirements for pip:
   -- voia
     -- conda install -c conda-forge voila
     
-To see how to fit the model look at fit-model.ipynb
+To see how to fit the model look at fit-model.ipynb.
 To see how to test the model look at newdata.py
